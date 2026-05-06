@@ -97,11 +97,6 @@ dl{
 	margin: 1em 0;
 }
 
-dfn{
-	font-style: normal;
-	font-variant: all-small-caps;
-}
-
 dd{
 	margin-left: 40px;
 }
@@ -110,17 +105,13 @@ dd + dt{
 	margin-top: 1em;
 }
 
-dd p + p,
-dd ol + p{
+#glossary dd ol + p{
 	text-indent: 0;
 }
 
 #glossary ol{
-	margin: 0;
-}
-
-#glossary a{
-	font-style: italic;
+	margin-left: 0;
+	padding: 0;
 }
 /* End glossaries */
 
