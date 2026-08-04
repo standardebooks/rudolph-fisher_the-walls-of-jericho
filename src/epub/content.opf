@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">sh85058929</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:abstract>A black lawyer attempts to move into an exclusively white neighborhood.</dc:abstract>
+		<meta property="schema:abstract">A black lawyer attempts to move into an exclusively white neighborhood.</meta>
 		<dc:description>
 			&lt;p&gt;When Fred Merrit, a wealthy and light-skinned black lawyer, decides to move into an exclusively white neighborhood in Manhattan, he hires three of the toughest movers in Harlem, Joshua “Shine” Jones, Jinx Jenkins, and Bubber Brown, to bring his possessions safely into his new home. Under the surface, all is not well. Fred Merrit’s new neighbors, like the haughty Miss Agatha Cramp, resent his intrusion into their neighborhood, while the working-class “rats” of the Harlem community resent the cultural mores of professional “dickties” like Fred Merrit. These confrontations all come to the fore in &lt;i&gt;The Walls of Jericho&lt;/i&gt;, a comedy of manners depicting everyday life during the Harlem Renaissance.&lt;/p&gt;
 		</dc:description>
